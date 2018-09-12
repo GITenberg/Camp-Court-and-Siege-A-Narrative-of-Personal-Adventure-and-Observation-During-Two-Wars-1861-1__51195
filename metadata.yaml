@@ -1,0 +1,32 @@
+_repo: Camp-Court-and-Siege-A-Narrative-of-Personal-Adventure-and-Observation-During-Two-Wars-1861-1__51195
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hoffman, Wickham
+    birthdate: 1821
+    deathdate: 1900
+    gutenberg_agent_id: '46285'
+    url: http://www.gutenberg.org/2009/agents/46285
+description: ''
+gutenberg_issued: '2016-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51195'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+- !lcc 'DC'
+- !lcsh 'Southwest, Old -- History -- Civil War, 1861-1865'
+- !lcsh 'Paris (France) -- History -- Commune, 1871'
+- !lcsh 'France -- History -- Second Empire, 1852-1870'
+- !lcsh 'Hoffman, Wickham, 1821-1900'
+- !lcsh 'France -- History -- Occupation and evacuation, 1871-1873'
+- !lcc 'E456'
+- !lcsh 'Louisiana -- History -- Civil War, 1861-1865'
+- GITenberg
+title: "Camp, Court and Siege\r\nA Narrative of Personal Adventure and Observation\
+  \ During Two Wars: 1861-1865; 1870-1871"
+url: http://www.gutenberg.org/ebooks/51195
